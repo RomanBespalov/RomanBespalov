@@ -24,9 +24,9 @@
   <img src="https://media.giphy.com/media/Cov4Bc3eWuqo5wZpm2/giphy.gif" width="500" height="250"/>
 </div>
 :man_technologist: About Me :
-I am a Backend Developer from Russia.
+I am Backend Developer from Russia.
 
-- 👨‍🎓: I’m w as a Software Engineer and contributing to backend for building web applications.
+- 👨‍🎓: I’m Software Engineer and contributing to backend for building web applications.
 
 <!--
 
