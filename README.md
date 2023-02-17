@@ -10,7 +10,9 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=RomanBespalov&style=flat-square&color=blue" alt=""/>
+</div>
 <!--
 **RomanBespalov/RomanBespalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
