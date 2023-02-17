@@ -24,9 +24,7 @@
   <img src="https://media.giphy.com/media/Cov4Bc3eWuqo5wZpm2/giphy.gif" width="500" height="250"/>
 </div>
 
-
 ---
-
 
 ### :man_technologist: About Me :
 I am Backend Developer from Russia.
@@ -36,6 +34,7 @@ I am Backend Developer from Russia.
 - 🪐: In my free time, I solve tasks on Leetcode and read tech articles.
 - 📬:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roman-bespalov1997/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bespalovroman1997)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -52,6 +51,14 @@ I am Backend Developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest"  alt="pytest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="pytest"  alt="pytest" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RomanBespalov&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanBespalov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
