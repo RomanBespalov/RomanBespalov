@@ -26,7 +26,9 @@
 :man_technologist: About Me :
 I am a Backend Developer from Russia.
 
-- 👨‍🎓: I’m w as a Software Engineer and contributing to frontend and backend for building web applications.
+- 👨‍🎓: I’m w as a Software Engineer and contributing to backend for building web applications.
+
+<!--
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -36,7 +38,7 @@ I am a Backend Developer from Russia.
 
 
 
-<!--
+
 **RomanBespalov/RomanBespalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
