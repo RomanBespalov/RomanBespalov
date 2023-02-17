@@ -23,7 +23,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Cov4Bc3eWuqo5wZpm2/giphy.gif" width="500" height="250"/>
 </div>
-:man_technologist: About Me :
+
+
+---
+
+
+### :man_technologist: About Me :
 I am Backend Developer from Russia.
 
 - 👨‍🎓: I’m studying for Backend Developer in Yandex Practicum.
@@ -34,6 +39,9 @@ I am Backend Developer from Russia.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite"  alt="sqlite" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
 
 <!--
 **RomanBespalov/RomanBespalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
