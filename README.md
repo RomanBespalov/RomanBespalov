@@ -2,7 +2,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
 </div>
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/roman-bespalov1997/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **RomanBespalov/RomanBespalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
