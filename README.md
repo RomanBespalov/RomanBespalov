@@ -26,19 +26,14 @@
 :man_technologist: About Me :
 I am Backend Developer from Russia.
 
-- 👨‍🎓: I’m Software Engineer and contributing to backend for building web applications.
+- 👨‍🎓: I’m studying for Backend Developer in Yandex Practicum.
+- ✈️: Used to be an aircraft engineer.
+- 🪐: In my free time, I solve tasks in Leetcode and read tech articles.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roman-bespalov1997/)
+
+
 
 <!--
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
-
-
-
 **RomanBespalov/RomanBespalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
