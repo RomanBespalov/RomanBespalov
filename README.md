@@ -20,6 +20,15 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/Cov4Bc3eWuqo5wZpm2/giphy.gif" width="500" height="250"/>
+</div>
+### :man_technologist: About Me :
+I am a Backend Developer from Russia.
+
+
+
+
 <!--
 **RomanBespalov/RomanBespalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
