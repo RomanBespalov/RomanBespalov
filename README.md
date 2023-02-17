@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
+  <a href="https://github.com/RomanBespalov">
+    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
+  </a>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/roman-bespalov1997/">
