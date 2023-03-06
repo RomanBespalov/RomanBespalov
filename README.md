@@ -30,7 +30,7 @@
 I am Backend Developer from Russia.
 
 - 👨‍🎓: I’m studying for Backend Developer in Yandex Practicum.
-- ✈️: Used to be an aircraft engineer.
+- ✈️: aircraft engineer.
 - :mountain: In my free time, I solve tasks on Leetcode and read tech articles.
 - 📬:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roman-bespalov1997/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bespalovroman1997)
