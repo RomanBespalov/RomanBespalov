@@ -27,7 +27,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am Backend Developer from Russia.
+I am Backend Developer.
 
 - 👨‍🎓: I’m studying for Backend Developer in Yandex Practicum.
 - ✈️: aircraft engineer.
