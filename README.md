@@ -24,9 +24,9 @@
 ### :man_technologist: About Me :
 My name is Roman and I'm Backend Developer.
 
-- 👨‍🎓: I have passed the Backend Developer course at Yandex Practicum.
-- ✈️: aircraft engineer.
-- :mountain: In my free time, I solve tasks on Leetcode and read tech articles.
+- 👨‍🎓: I have finished Python Developer course at Yandex Practicum
+- ✈️: aircraft engineer
+- :mountain: In my free time, I solve tasks on Leetcode and read tech articles
 - 📬:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roman-bespalov1997/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bespalovroman1997)
 [![Email Badge](https://img.shields.io/badge/Email-rbespalov.97@inbox.ru-blue?style)](mailto:rbespalov.97@inbox.ru)
