@@ -21,7 +21,7 @@
   </h1>
 </div>
 
-### :man_technologist: About Me :
+### About Me :
 My name is Roman and I'm Backend Developer.
 
 - 👨‍🎓: I have finished Python Developer course at Yandex Practicum
@@ -33,7 +33,7 @@ My name is Roman and I'm Backend Developer.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite"  alt="sqlite" width="50" height="50"/>&nbsp;
@@ -50,7 +50,7 @@ My name is Roman and I'm Backend Developer.
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RomanBespalov&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanBespalov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
